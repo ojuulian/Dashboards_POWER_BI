@@ -20,5 +20,5 @@ Power BI
 
 <h3> Distribuciones muestrales </h3>
 
-0. [Distribuciones muestrales](https://app.powerbi.com/view?r=eyJrIjoiNmYyMWY2MzktZWE3OS00M2QxLWIwMmMtMTY4NjA1YWQxY2ZkIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSectionf41168abd8c09c1b661b)
+1. [Tablero estrategico para el análisis de tickets en una empresa](https://app.powerbi.com/view?r=eyJrIjoiNmYyMWY2MzktZWE3OS00M2QxLWIwMmMtMTY4NjA1YWQxY2ZkIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSectionf41168abd8c09c1b661b)
 
