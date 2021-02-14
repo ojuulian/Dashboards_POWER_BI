@@ -22,3 +22,5 @@ Power BI
 
 1. [Tablero estrategico para el análisis de tickets en una empresa](https://app.powerbi.com/view?r=eyJrIjoiYjEwY2ZjNjYtZDUzZi00MDU0LThlMmEtNzhjNjg4N2RiZmY3IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
+2. [Tablero estrategico para el análisis Utilidades y márgenes en una empresa de ventas de tecnología](https://app.powerbi.com/view?r=eyJrIjoiZDBhNDRhMDktMjRlNi00ZmI3LTkzYjYtNmY0MjJhMmIwZDk5IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSection)
+
