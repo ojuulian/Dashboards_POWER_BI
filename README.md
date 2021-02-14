@@ -24,3 +24,4 @@ Power BI
 
 2. [Tablero estrategico para el análisis Utilidades y márgenes en una empresa de ventas de tecnología](https://app.powerbi.com/view?r=eyJrIjoiZDBhNDRhMDktMjRlNi00ZmI3LTkzYjYtNmY0MjJhMmIwZDk5IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSection)
 
+.
