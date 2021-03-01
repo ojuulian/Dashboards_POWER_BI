@@ -3,8 +3,6 @@
 
 Se generan tableros (Dashboards) por medio de *Power BI* para hacer análisis y descripciones de datos, se construyen archivos los cuales usan datos ficticios. Todo lo anterior se realiza con el fin de generar una  infraestructura y herramientas, las cuales permiten el acceso y el análisis de la información para la toma de decisiones.
 
-<h3>Autor</h3>
-
 
 <h3>Visualización realizada en: </h3>
 
@@ -25,5 +23,6 @@ El siguiente dashboard fue realizado en consecuencia de un tutorial de pasos par
 
 3. [Tablero Power BI para el análisis del desempeño de empleados - Ranking](https://app.powerbi.com/view?r=eyJrIjoiYTk3MGIzMWMtNzc0My00N2M1LWE1YTktMzkxMTUwMDkxYmI0IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
+Para poder caracterizar al Covid 19 a nivel mundial, se realiza un Dashboard paso a paso (construcción guiada por udemy).
 
-
+4. [Tablero Power BI para el análisis del Covid 19](https://app.powerbi.com/view?r=eyJrIjoiMGQ5MTViODYtMzQ4My00YTE3LWIzY2EtYWEwZjIyZjNlZTgzIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
