@@ -21,7 +21,7 @@ Power BI
 
 2. [Tablero estrategico para el análisis Utilidades y márgenes en una empresa de ventas de tecnología](https://app.powerbi.com/view?r=eyJrIjoiNmY1NGU4NGQtZGUyNS00ZTYyLTkwNjYtYThkOWM4YWJhM2Y3IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
-El siguiente dashboard fue realizado en consecuencia de un tutorial de pasos para crear destrezas en el desarrollo de tableros power BI en Udemy, por lo tanto las imágenes y bases de datos de ejemplo y la empresa caracterizada es creada.
+El siguiente dashboard fue realizado en consecuencia de un tutorial de pasos para crear destrezas en el desarrollo de tableros power BI en Udemy. Por lo tanto, las imágenes, bases de datos y la empresa caracterizada es de ejemplo.
 
 3. [Tablero Power BI para el análisis del desempeño de empleados - Ranking](https://app.powerbi.com/view?r=eyJrIjoiYTk3MGIzMWMtNzc0My00N2M1LWE1YTktMzkxMTUwMDkxYmI0IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
