@@ -13,7 +13,7 @@ Power BI
 
 
 
-<h3> Distribuciones muestrales </h3>
+<h3> Dashboards  </h3>
 
 1. [Tablero estrategico para el análisis de tickets en una empresa](https://app.powerbi.com/view?r=eyJrIjoiYjEwY2ZjNjYtZDUzZi00MDU0LThlMmEtNzhjNjg4N2RiZmY3IiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
