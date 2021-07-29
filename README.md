@@ -25,7 +25,7 @@ Para poder caracterizar al Covid 19 a nivel mundial, se realiza un Dashboard pas
 
 4. [Tablero Power BI sobre las transportadoras de productos LINIO](https://app.powerbi.com/view?r=eyJrIjoiMjVhZjY0M2MtZDVkMC00NmYyLThjZDctYTljMjQxY2JlNTUxIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9)
 
-5. [Tablero Power Bi para la caracterización de segmentos derivados de modelos de clasificación] (https://app.powerbi.com/view?r=eyJrIjoiZjY3YzZlMjItYjZkZS00NDYxLTk1MTEtOGNlOTNiN2U2YWRjIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSection)  
+5. [Tablero Power Bi para la caracterización de segmentos derivados de modelos de clasificación](https://app.powerbi.com/view?r=eyJrIjoiZjY3YzZlMjItYjZkZS00NDYxLTk1MTEtOGNlOTNiN2U2YWRjIiwidCI6IjMwMGE5NDNhLTkyNDctNGQ1Zi1iYTNkLTk5MTQxYWQyZjUxZCJ9&pageName=ReportSection)  
 
 El siguiente dashboard fue realizado en consecuencia de un tutorial de pasos para crear destrezas en el desarrollo de tableros power BI en Udemy. Por lo tanto, las imágenes, bases de datos y la empresa caracterizada es de ejemplo.
 
